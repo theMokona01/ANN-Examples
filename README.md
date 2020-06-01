@@ -1,6 +1,6 @@
 # Simple-ML-Models
-Models created:
+Models created:<br/><br/>
 
-Regression
-Classification
-Classication with Boosting
+Regression<br/>
+Classification<br/>
+Classication with Boosting<br/>
