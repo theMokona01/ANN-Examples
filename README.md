@@ -1,4 +1,4 @@
-# Simple-ML-Models
+# Simple-ANN-Models
 Models created:<br/><br/>
 
 - Linear Regression<br/>
