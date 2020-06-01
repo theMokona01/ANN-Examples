@@ -3,4 +3,4 @@ Models created:<br/><br/>
 
 - Linear Regression<br/>
 - Classification<br/>
-- Classication with Boosting<br/>
+- Classification with Boosting<br/>
